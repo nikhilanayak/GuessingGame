@@ -1,3 +1,9 @@
+/*
+Written By: Nikhil Nayak
+Date: 10/20/21
+Description: An implementation of guessing game in c++. Compares user input to a random number, and gives feedback (higher/lower) until the number is guessed. 
+*/
+
 #include <iostream> // for IO
 #include <cstring> // c string operations (strcmp)
 #include <time.h> // for getting unix time
